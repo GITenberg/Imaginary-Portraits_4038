@@ -1,5 +1,8 @@
 _repo: Imaginary-Portraits_4038
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pater, Walter
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
 description: A prince of court painters. -- Denys l'Auxerrois. -- Sebastian van Storck.
   -- Duke Carl of Rosenmold.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4038#Imaginary-Portraits
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
